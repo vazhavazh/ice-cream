@@ -1,21 +1,20 @@
 {
-  "name": "parcel-project-template",
+  "name": "ice-cream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://RomanXz92.github.io/sass-team",
+  "homepage": "https://vazhavazh.github.io/ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /sass-team/"
+    "build": "parcel build src/*.html --public-url /ice-cream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/vazhavazh/ice-cream.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/vazhavazh/ice-cream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
